@@ -1,15 +1,5 @@
-#################################################
-#                    WARNING                    #
-# Here ends the Support for this Plugin. Making #
-# Changes to the Plugin's Root File is under no #
-# circumstances allowed. Changing the wrong Va- #
-# lues in this File causes unwanted bad effects #
-#                                               #
-# >>       PLEASE PROCEED WITH CAUTION       << #
-#################################################
-
-name: ${project.name}
-version: ${project.version}
-author: ${author}
-main: ${main}
-softdepend: [ProtocolLib, Vault]
+name: Nametags
+version: 2.0.0
+authors: [LimeGlass, Acquized]
+main: com.acquized.nametags.Nametags
+softdepend: [ProtocolLib]
